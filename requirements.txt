@@ -22,7 +22,6 @@ blinker==1.4
 blis==0.7.9
 boto3==1.24.66
 botocore==1.27.96
-Brlapi==0.7.0
 cachetools==5.2.1
 catalogue==2.0.8
 certifi==2019.11.28
